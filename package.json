@@ -1,0 +1,25 @@
+{
+  "name": "captcha-svg-generator",
+  "version": "1.0.0",
+  "description": "Generate customizable SVG CAPTCHA images with random characters, noise lines, and multiple fonts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "captcha",
+    "svg",
+    "generator",
+    "captcha-generator",
+    "nodejs",
+    "express",
+    "security",
+    "authentication",
+    "opentype"
+  ],
+  "author": "Prathamesh Chavan <cprathmesh01@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "opentype.js": "^1.3.4"
+  }
+}
